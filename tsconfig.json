@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "references": [
+    { "path": "packages/apache-annotator" },
+    { "path": "packages/dom" },
+    { "path": "packages/selector" },
+    { "path": "tsconfig.test.json"}
+  ]
+}
